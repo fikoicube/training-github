@@ -1,4 +1,4 @@
-# training-github
+# Training Github
 
 
 1. Clone this repo.
